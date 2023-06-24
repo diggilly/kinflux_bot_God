@@ -5,7 +5,7 @@ let pp = './Guru.jpg'
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850) 
 let lkr = `❀° ┄──•••───╮
-       𝘽𝙊𝙏 𝙈𝙀𝙉𝙐  
+     kinflux 𝘽𝙊𝙏 𝙈𝙀𝙉𝙐  
 ╰───•••──┄ °❀     
 ┏━━━ʕ•㉨•ʔ━━━┓
 ⎪⌲👑 _${usedPrefix}ping_
