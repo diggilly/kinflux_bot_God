@@ -1,8 +1,8 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
-    <h1 align="center">GURU-BOT</h1>
+    <img alt="Guru" height="300" src="https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg">
+    <h1 align="center">kinflux-bot</h1>
   </a>
 </p>
 <p align="center">
