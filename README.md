@@ -9,14 +9,14 @@
 <a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Guru322?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
+<a href="https://github.com/diggilly?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
 <a href="https://github.com/Guru322/GURU-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
 <a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
 <a href="https://github.com/Guru322/GURU-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
 </p>
 
 ####  
-GURU-BOT- Simple Multi Device whatsapp bot.
+kinflux-bot- Simple Multi Device whatsapp bot.
 
 ***
 
@@ -44,7 +44,7 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 
 3. Now Deploy
     <br>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Guru322/GURU-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/diggilly/kinflux-bot"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 #### DEPLOY TO Replit 
 
