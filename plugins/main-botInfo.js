@@ -56,15 +56,16 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *GURU*
-▢ Instagram :
-  • https://instagram.com/asli_guru69
+  *zamzack254*
+▢ whatsapp group link :
+  • https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD
 ▢ GitHub :
-  • https://github.com/Guru322
+  • https://github.com/diggilly/kinflux-bot
 ▢ Telegram : 
-  • t.me/i_want_to_be_isekaied (GURU) 
-▢ YouTube : 
-  • https://youtube.com/@Asliguru
+  • t.me/kinflux_bot 
+▢ owner number : 
+  • wa.me/254110077535
+  • wa.me/254110377776
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
