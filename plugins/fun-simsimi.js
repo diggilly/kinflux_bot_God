@@ -11,7 +11,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   const uid = encodeURIComponent(m.sender);
   const msg = encodeURIComponent(text);
   
-  const res = await fetch(`hhttp://api.brainshop.ai/get?bid=176217&key=knXmUkn9zcHAk09T&uid=[uid]&msg=[msg]`);
+  const res = await fetch(`http://api.brainshop.ai/get?bid=176217&key=knXmUkn9zcHAk09T&uid=[uid]&msg=[msg]`);
   const json = await res.json();
   
   if (json.cnt) {
