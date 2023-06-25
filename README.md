@@ -24,11 +24,11 @@ kinflux-bot- Simple Multi Device whatsapp bot.
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Guru322/GURU-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/diggilly/kinflux_bot_God/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Scan the QR and upload guru.data.json to your fork(will recieve it on your bot number after scanning)
     <br>
-<a href='https://replit.com/@Guru322/GURU-BOT-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@digildigil/Kinflux-bot-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -44,7 +44,7 @@ kinflux-bot- Simple Multi Device whatsapp bot.
 
 3. Now Deploy
     <br>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/diggilly/kinflux-bot"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/diggilly/kinflux_bot_God/"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 #### DEPLOY TO Replit 
 
@@ -74,14 +74,14 @@ kinflux-bot- Simple Multi Device whatsapp bot.
  
  ## 🤩 Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-- Star ⭐ the repo if you like GURU-BOT.
-
-## BASE OG BY [FG98](https://github.com/FG98F/dylux-fg)
+- Star ⭐ the repo if you like kinflux-BOT.
 
 
- **THANKS TO** |[GURU](https://github.com/Guru322/GURU-BOT) | 
+
+
+ **THANKS TO** |[diggilly](https://github.com/diggilly) | 
 
 
 
