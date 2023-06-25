@@ -1,12 +1,12 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg">
+    <img alt="KINFLUX BOT" height="300" src="https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg">
     <h1 align="center">kinflux-bot</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/diggilly"><img title="Author" src="https://img.shields.io/badge/KINFLUX-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/diggilly?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
