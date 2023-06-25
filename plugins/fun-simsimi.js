@@ -24,7 +24,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 
 handler.help = ['bot'];
 handler.tags = ['fun'];
-handler.command = ['bot', 'chat' 'alexa'];
+handler.command = ['bot', 'chat', 'hi' 'alexa'];
 
 export default handler;
 
