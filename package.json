@@ -1,5 +1,5 @@
 { 
-    "name": "GURU",
+    "name": "KINFLUX-B0T-GOD",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -19,22 +19,22 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        "kinflux-bot",
+        "Kinflux-bot-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/diggilly/kinflux_bot_God",
     "author": {
-        "name": "GURU"
+        "name": "diggilly"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/diggilly/kinflux_bot_God"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/diggilly/kinflux_bot_God/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
