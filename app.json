@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "whatsapp-bot (kinflux bot God)",
   "description": " Whatsapp bot.",
   "keywords": [
-    "whatsapp bot"
+    "whatsapp bot" "KINFLUX BOT GOD", "kinflux bot", "wa bot", "multi device whatsapp bot",
   ],
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "https://github.com/diggilly/kinflux_bot_God",
   "stack": "container",
   "env": {
     "OPENAI_API_KEY": {
