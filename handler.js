@@ -688,7 +688,7 @@ case 'remove':
                 ppgp = 'https://i.imgur.com/8B4jwGq.jpeg'; // Assign default image URL
             } finally {
                 let text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Welcome, @user').replace('@group', await this.getName(id)).replace('@desc', groupMetadata.desc?.toString() || 'Desconocido') :
-                    (chat.sBye || this.bye || conn.bye || 'HELLO, @user')).replace('@user', '@' + user.split('@')[0]);
+                    (chat.sBye || this.bye || conn.bye || 'HELLO This Is 💝 Kinflux bot , @user')).replace('@user', '@' + user.split('@')[0]);
 
                 let nthMember = groupMetadata.participants.length;
                 let secondText = action === 'add' ? `Welcome, ${await this.getName(user)}, our ${nthMember}th member` : `Goodbye, our ${nthMember}th group member`;
@@ -712,11 +712,11 @@ case 'remove':
             break
         case 'promote':
         case 'promover':
-            text = (chat.sPromote || this.spromote || conn.spromote || '@user is now administrador')
+            text = (chat.sPromote || this.spromote || conn.spromote || '@user is now upgraded to administrador')
         case 'demote':
         case 'degradar':
             if (!text)
-                text = (chat.sDemote || this.sdemote || conn.sdemote || '@user not now an administrador')
+                text = (chat.sDemote || this.sdemote || conn.sdemote || '@user is demoted from being administrador')
             text = text.replace('@user', '@' + participants[0].split('@')[0])
             if (chat.detect)
                 this.sendMessage(id, { text, mentions: this.parseMention(text) })
@@ -736,13 +736,13 @@ export async function groupsUpdate(groupsUpdate) {
         let chats = global.db.data.chats[id], text = ''
         if (!chats?.detect) continue
         if (groupUpdate.desc) text = (chats.sDesc || this.sDesc || conn.sDesc || '```Description has been changed to```\n@desc').replace('@desc', groupUpdate.desc)
-        if (groupUpdate.subject) text = (chats.sSubject || this.sSubject || conn.sSubject || '```Subject has been changed to```\n@subject').replace('@subject', groupUpdate.subject)
-        if (groupUpdate.icon) text = (chats.sIcon || this.sIcon || conn.sIcon || '```Icon has been changed to```').replace('@icon', groupUpdate.icon)
+        if (groupUpdate.subject) text = (chats.sSubject || this.sSubject || conn.sSubject || '```Subject has been changed by kinflux bot to```\n@subject').replace('@subject', groupUpdate.subject)
+        if (groupUpdate.icon) text = (chats.sIcon || this.sIcon || conn.sIcon || '```Icon has been changed by kinflux bot to```').replace('@icon', groupUpdate.icon)
         if (groupUpdate.revoke) text = (chats.sRevoke || this.sRevoke || conn.sRevoke || '```Group link has been changed to```\n@revoke').replace('@revoke', groupUpdate.revoke)
-        if (groupUpdate.announce == true) text = (chats.sAnnounceOn || this.sAnnounceOn || conn.sAnnounceOn || '*Group has been closed!*')
-        if (groupUpdate.announce == false) text = (chats.sAnnounceOff || this.sAnnounceOff || conn.sAnnounceOff || '*Group has been open!*')
-        if (groupUpdate.restrict == true) text = (chats.sRestrictOn || this.sRestrictOn || conn.sRestrictOn || '*Group has been all participants!*')
-        if (groupUpdate.restrict == false) text = (chats.sRestrictOff || this.sRestrictOff || conn.sRestrictOff || '*Group has been only admin!*')
+        if (groupUpdate.announce == true) text = (chats.sAnnounceOn || this.sAnnounceOn || conn.sAnnounceOn || '*Group has been closed by kinflux Wa bot*')
+        if (groupUpdate.announce == false) text = (chats.sAnnounceOff || this.sAnnounceOff || conn.sAnnounceOff || '*Group has been opened✨!*')
+        if (groupUpdate.restrict == true) text = (chats.sRestrictOn || this.sRestrictOn || conn.sRestrictOn || '*Group has✨ all participants BY KINFLUX BOT✨!*')
+        if (groupUpdate.restrict == false) text = (chats.sRestrictOff || this.sRestrictOff || conn.sRestrictOff || '*Group has been only admin! by kinflux bot✨*')
         if (!text) continue
         await this.sendMessage(id, { text, mentions: this.parseMention(text) })
     }
@@ -760,13 +760,13 @@ export async function deleteUpdate(message) {
         if (chat.delete)
             return 
             await this.reply(msg.chat, `
-≡ deleted a message 
+≡ ⚡ kinflux bot ⚡ WA BOT deleted a message 
 ┌─⊷  𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀 
 ▢ *Number :* @${participant.split`@`[0]} 
 └─────────────
 TO DEACTIVE , PRESS 
-*/off antidelete*
-*.enable delete*
+✨*/off antidelete*✨
+✨*.enable delete*✨
 `.trim(), msg, {
             mentions: [participant]
         })
@@ -778,16 +778,16 @@ TO DEACTIVE , PRESS
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: '*ᴏɴʟʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ* • This command can only be used by the *Creator of the bot*',
-        owner: '*ᴏɴʟʏ ᴏᴡɴᴇʀ* • This command can only be used by the *Bot Owner',
-        mods: '*ᴏɴʟʏ ᴍᴏᴅᴇʀᴀᴛᴏʀ* •This function is only for *For Bot moderators*',
-        premium: '*ᴏɴʟʏ ᴘʀᴇᴍɪᴜᴍ* • This command is for *Premium members only',
-        group: '*ɢʀᴏᴜᴘ ᴄʜᴀᴛ* • This command can only be used in groups',
-        private: '*ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ* • This command can only be used in the *private chat of the Bot*',
-        admin: '*ᴏɴʟʏ ᴀᴅᴍɪɴ* • This command is only for *Group Admins*',
-        botAdmin: '*ᴏɴʟʏ ʙᴏᴛ ᴀᴅᴍɪɴ* • To use this command I must be *Admin!*',
-        unreg: '*ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ʀᴇɢɪsᴛᴇʀᴇᴅ ʏᴇᴛ* •  Sign in to use this feature Typing:\n\n*/reg name.age*\n\n📌Example : */reg GURU.20*', 
-        restrict: '*ʀᴇsᴛʀɪᴄᴛ* • This feature is *disabled*',
+        rowner: '*ᴏɴʟʏ ⚡ kinflux bot ⚡ ᴅᴇᴠᴇʟᴏᴘᴇʀ* • This command can only be used by the *⚡ kinflux bot ⚡ Creator*',
+        owner: '*ᴏɴʟʏ ⚡ kinflux bot ⚡ ᴏᴡɴᴇʀ* • This command can only be used by the *⚡ kinflux Bot Owner ⚡',
+        mods: '*ᴏɴʟʏ ⚡ kinflux bot ⚡ ᴍᴏᴅᴇʀᴀᴛᴏʀ* •This function is only for *⚡ kinflux Bot ⚡ moderators*',
+        premium: '*ᴏɴʟʏ ⚡ kinflux bot⚡ ᴘʀᴇᴍɪᴜᴍ user* • This command is for *⚡ kinflux bot ⚡ Premium members only',
+        group: '*⚡ kinflux bot ⚡ɢʀᴏᴜᴘ ᴄʜᴀᴛ* • This command can only be used in ⚡kinflux bots ⚡ groups',
+        private: '*⚡kinflux bot ⚡ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ* • This command can only be used in the *private chat of the Bot*',
+        admin: '*ᴏɴʟʏ ⚡ kinflux bot ⚡ ᴀᴅᴍɪɴ* • This command is only for *⚡kinflux bot ⚡ Group Admins*',
+        botAdmin: '*ᴏɴʟʏ ⚡kinflux ʙᴏᴛ ⚡ᴀᴅᴍɪɴ* • To use this command I must be *Group Admin!*',
+        unreg: '*ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ʀᴇɢɪsᴛᴇʀᴇᴅ ʏᴇᴛ* •  Sign in to use this feature Typing:\n\n*/reg name.age*\n\n📌Example : */reg zamzack254.20*', 
+        restrict: '*ʀᴇsᴛʀɪᴄᴛ By ⚡kinflux bot ⚡ * • This feature is *disabled* by ⚡kinflux bot⚡ a whatsApp bot',
     }[type]
     if (msg) return m.reply(msg)
 }
