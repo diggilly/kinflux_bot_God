@@ -5,39 +5,39 @@ let pp = './Guru.jpg'
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850) 
 let lkr = `❀° ┄──•••───╮
-     kinflux 𝘽𝙊𝙏 𝙈𝙀𝙉𝙐  
+     🎌kinflux 𝘽𝙊𝙏 𝙈𝙀𝙉𝙐🎌  
 ╰───•••──┄ °❀     
 ┏━━━ʕ•㉨•ʔ━━━┓
-⎪⌲👑 _${usedPrefix}ping_
-⎪⌲👑 _${usedPrefix}uptime_
-⎪⌲👑 _${usedPrefix}bot_
-⎪⌲👑 _${usedPrefix}owner_
-⎪⌲👑 _${usedPrefix}info_
-⎪⌲👑 _${usedPrefix}runtime_
-⎪⌲👑 _${usedPrefix}infobot_
-⎪⌲👑 _${usedPrefix}donate_
-⎪⌲👑 _${usedPrefix}groups_
-⎪⌲👑 _${usedPrefix}blocklist_
-⎪⌲👑 _${usedPrefix}listprem_
-⎪⌲👑    kinflux bot
+⎪⌲🤖 _${usedPrefix}ping_
+⎪⌲🤖 _${usedPrefix}uptime_
+⎪⌲🤖 _${usedPrefix}bot_
+⎪⌲🤖 _${usedPrefix}owner_
+⎪⌲🤖 _${usedPrefix}info_
+⎪⌲🤖 _${usedPrefix}runtime_
+⎪⌲🤖 _${usedPrefix}infobot_
+⎪⌲🤖 _${usedPrefix}donate_
+⎪⌲🤖 _${usedPrefix}groups_
+⎪⌲🤖 _${usedPrefix}blocklist_
+⎪⌲🤖 _${usedPrefix}listprem_
+⎪⌲🤖    kinflux bot
 ┗━━━ʕ•㉨•ʔ━━━┛
 
 ❀° ┄──•••───╮
      𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐  
 ╰───•••──┄ °❀     
 ┏━━━ʕ•㉨•ʔ━━━┓
-⎪⌲👑 _${usedPrefix}banchat_
-⎪⌲👑 _${usedPrefix}unbanchat_
-⎪⌲👑 _${usedPrefix}banuser_
-⎪⌲👑 _${usedPrefix}unbanuser_
-⎪⌲👑 _${usedPrefix}Broadcast_
-⎪⌲👑 _${usedPrefix}Broadcastgc_
-⎪⌲👑 _${usedPrefix}join_
-⎪⌲👑 _${usedPrefix}setppbot_
-⎪⌲👑 _${usedPrefix}setprefix_
-⎪⌲👑 _${usedPrefix}resetprefix_
-⎪⌲👑 _${usedPrefix}getfile_
-⎪⌲👑 _${usedPrefix}getplugin_
+⎪⌲🌟  _${usedPrefix}banchat_
+⎪⌲🌟 _${usedPrefix}unbanchat_
+⎪⌲🌟 _${usedPrefix}banuser_
+⎪⌲🌟  _${usedPrefix}unbanuser_
+⎪⌲🌟 _${usedPrefix}Broadcast_
+⎪⌲🌟 _${usedPrefix}Broadcastgc_
+⎪⌲🌟 _${usedPrefix}join_
+⎪⌲🌟 _${usedPrefix}setppbot_
+⎪⌲🌟 _${usedPrefix}setprefix_
+⎪⌲🌟 _${usedPrefix}resetprefix_
+⎪⌲🌟 _${usedPrefix}getfile_
+⎪⌲🌟 _${usedPrefix}getplugin_
 ┗━━━ʕ•㉨•ʔ━━━┛
 ${readMore}
 ❀° ┄──•••───╮
@@ -112,62 +112,62 @@ ${readMore}
       𝙁𝙐𝙉 𝙈𝙀𝙉𝙐
 ╰───•••──┄ °❀     
 ┏━━━ʕ•㉨•ʔ━━━┓
-⎪⌲👑 _${usedPrefix}character_
-⎪⌲👑 _${usedPrefix}truth_
-⎪⌲👑 _${usedPrefix}dare_
-⎪⌲👑 _${usedPrefix}flirt_
-⎪⌲👑 _${usedPrefix}gay_
-⎪⌲👑 _${usedPrefix}shayeri_
-⎪⌲👑 _${usedPrefix}ship_
-⎪⌲👑 _${usedPrefix}waste_
-⎪⌲👑 _${usedPrefix}simpcard_
-⎪⌲👑 _${usedPrefix}hornycard_
-⎪⌲👑 _${usedPrefix}ytcomment_
-⎪⌲👑 _${usedPrefix}stupid_
-⎪⌲👑 _${usedPrefix}lolicon_
+⎪⌲🎭 _${usedPrefix}character_
+⎪⌲🎭 _${usedPrefix}truth_
+⎪⌲🎭 _${usedPrefix}dare_
+⎪⌲🎭 _${usedPrefix}flirt_
+⎪⌲🎭 _${usedPrefix}gay_
+⎪⌲🎭 _${usedPrefix}shayeri_
+⎪⌲🎭 _${usedPrefix}ship_
+⎪⌲🎭 _${usedPrefix}waste_
+⎪⌲🎭 _${usedPrefix}simpcard_
+⎪⌲🎭 _${usedPrefix}hornycard_
+⎪⌲🎭 _${usedPrefix}ytcomment_
+⎪⌲🎭 _${usedPrefix}stupid_
+⎪⌲🎭 _${usedPrefix}lolicon_
 ┗━━━ʕ•㉨•ʔ━━━┛
 
 ❀° ┄──•••───╮
       𝐴𝑁𝐼𝑀𝐸 𝑀𝐸𝑁𝑈
 ╰───•••──┄ °❀     
 ┏━━━ʕ•㉨•ʔ━━━┓
-⎪⌲👑 _${usedPrefix}waifu_
-⎪⌲👑 _${usedPrefix}neko_
-⎪⌲👑 _${usedPrefix}loli_
-⎪⌲👑 _${usedPrefix}couplepp_
-⎪⌲👑 _${usedPrefix}toanime_
-⎪⌲👑 _${usedPrefix}naruto_
-⎪⌲👑 _${usedPrefix}itachi_
-⎪⌲👑 _${usedPrefix}akira_
-⎪⌲👑 _${usedPrefix}asuna_
-⎪⌲👑 _${usedPrefix}akiyama_
-⎪⌲👑 _${usedPrefix}boruto_
-⎪⌲👑 _${usedPrefix}hornycard_
-⎪⌲👑 _${usedPrefix}ayuzawa_
-⎪⌲👑 _${usedPrefix}anna_
-⎪⌲👑 _${usedPrefix}chiho_
-⎪⌲👑 _${usedPrefix}chitoge_
-⎪⌲👑 _${usedPrefix}deidara_
-⎪⌲👑 _${usedPrefix}erza_
-⎪⌲👑 _${usedPrefix}elaina_
-⎪⌲👑 _${usedPrefix}emilia_
-⎪⌲👑 _${usedPrefix}hestia_
-⎪⌲👑 _${usedPrefix}hinata_
-⎪⌲👑 _${usedPrefix}inori_
-⎪⌲👑 _${usedPrefix}isuzu_
-⎪⌲👑 _${usedPrefix}kagura_
-⎪⌲👑 _${usedPrefix}kaori_
-⎪⌲👑 _${usedPrefix}keneki_
-⎪⌲👑 _${usedPrefix}kurumi_
-⎪⌲👑 _${usedPrefix}madara_
-⎪⌲👑 _${usedPrefix}mikasa_
-⎪⌲👑 _${usedPrefix}miku_
-⎪⌲👑 _${usedPrefix}minato_
-⎪⌲👑 _${usedPrefix}nezuko_
-⎪⌲👑 _${usedPrefix}sagiri_
-⎪⌲👑 _${usedPrefix}sasuke_
-⎪⌲👑 _${usedPrefix}sakura_
-⎪⌲👑 _${usedPrefix}kotori_
+⎪⌲🔮 _${usedPrefix}waifu_
+⎪⌲🔮 _${usedPrefix}neko_
+⎪⌲🔮 _${usedPrefix}loli_
+⎪⌲🔮 _${usedPrefix}couplepp_
+⎪⌲🔮 _${usedPrefix}toanime_
+⎪⌲🔮 _${usedPrefix}naruto_
+⎪⌲🔮 _${usedPrefix}itachi_
+⎪⌲🔮 _${usedPrefix}akira_
+⎪⌲🔮 _${usedPrefix}asuna_
+⎪⌲🔮 _${usedPrefix}akiyama_
+⎪⌲🔮 _${usedPrefix}boruto_
+⎪⌲🔮 _${usedPrefix}hornycard_
+⎪⌲🔮 _${usedPrefix}ayuzawa_
+⎪⌲🔮 _${usedPrefix}anna_
+⎪⌲🔮 _${usedPrefix}chiho_
+⎪⌲🔮 _${usedPrefix}chitoge_
+⎪⌲🔮 _${usedPrefix}deidara_
+⎪⌲🔮 _${usedPrefix}erza_
+⎪⌲🔮 _${usedPrefix}elaina_
+⎪⌲🔮 _${usedPrefix}emilia_
+⎪⌲🔮 _${usedPrefix}hestia_
+⎪⌲🔮 _${usedPrefix}hinata_
+⎪⌲🔮 _${usedPrefix}inori_
+⎪⌲🔮 _${usedPrefix}isuzu_
+⎪⌲🔮 _${usedPrefix}kagura_
+⎪⌲🔮 _${usedPrefix}kaori_
+⎪⌲🔮 _${usedPrefix}keneki_
+⎪⌲🔮 _${usedPrefix}kurumi_
+⎪⌲🔮 _${usedPrefix}madara_
+⎪⌲🔮 _${usedPrefix}mikasa_
+⎪⌲🔮 _${usedPrefix}miku_
+⎪⌲🔮 _${usedPrefix}minato_
+⎪-🔮 _${usedPrefix}nezuko_
+⎪⌲🔮 _${usedPrefix}sagiri_
+⎪⌲🔮 _${usedPrefix}sasuke_
+\🔮 _${usedPrefix}sakura_
+⎪⌲🔮 _${usedPrefix}kotori_
 ┗━━━ʕ•㉨•ʔ━━━┛
 
 ❀° ┄──•••───╮
