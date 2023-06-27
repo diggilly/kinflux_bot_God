@@ -5,7 +5,9 @@ let handler = async function (m, { conn, __dirname }) {
 let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
   
 m.reply(`
-*≡ SCRIPT*
+*≡ kinflux bot God SCRIPT*
+
+ Wa bot group https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD
 
 ▢ Git : ${_package.homepage}
 `.trim())
