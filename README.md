@@ -64,12 +64,12 @@ kinflux-bot- Simple Multi Device whatsapp bot.
 
 2. Now Deploy
     <br>
-<p align="center"><a href="https://youtu.be/hBxSyqyeoFU"> <img src="https://img.shields.io/badge/Coolify%20Deploy-blue?style=for-the-badge&logo=coolify" width="220" height="38.45"/></a></p>
+<p  </p>
 
 
  ## 📙 Guide
 
- - [Termux Hosting Guide](https://github.com/Guru322/GURU-BOT/blob/main/Termux-Guide.md)
+ - [Termux Hosting Guide](https://github.com/diggilly/kinflux_bot_God/blob/main/Termux-Guide.md)
  
  
  ## 🤩 Support
