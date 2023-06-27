@@ -1,29 +1,27 @@
 let handler = async m => m.reply(`
 
-≡  *GURU  ┃ ᴮᴼᵀ*   GROUPS
+≡  *kinflux ┃ ᴮᴼᵀ*   GROUPS
 
 ─────────────
 ▢ Join public bot group and support
-https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
+https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD
 
 ▢ Group 2
-https://chat.whatsapp.com/LwLQab5mZVW6WWRbBPnDGC
+https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD
 
-▢ Group 3
-https://chat.whatsapp.com/Jn9qVerYN6Q1L0vlVFe2XL
-
-─────────────
 ≡ Disabled links? enter here! 
 
 ▢ Group WhatsApp 
- https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
+ https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD
 ─────────────
 ▢ *Owner Telegram*
- https://t.me/i_want_to_be_isekaied
+ https://t.me/kinflux_bot
 
-▢ *YouTube*
-• https://www.youtube.com/@Asliguru
+▢ *owner number*
+• https://wa.me/254110077535
+• https://wa.me/254110377776
 
+-----------------------------------
 
 `.trim())
 handler.help = ['gpguru']
