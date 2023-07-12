@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="KINFLUX BOT" height="300" src="https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg">
+    <img alt="KINFLUX BOT" height="300" src="https://github.com/diggilly/kinflux_bot_God/blob/main/Guru.jpg">
     <h1 align="center">kinflux-bot</h1>
   </a>
 </p>
