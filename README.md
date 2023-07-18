@@ -21,9 +21,9 @@ kinflux-bot- Simple Multi Device whatsapp bot. ⚡️ Lightning-Fast Responses: 
 ***
 
 #### SETUP
-
-1. Fork the repo
-    <br>
+   
+## ```1. fork the repo first Here```
+           
 <a href='https://github.com/diggilly/kinflux_bot_god_v2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Scan the QR and upload guru.data.json to your fork(will recieve it on your bot number after scanning)
